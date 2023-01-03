@@ -1,2 +1,2 @@
-email : testtest@mamam,com
-gitID : test
+email : 232323testtest@mamam,com
+gitID : 232323test
